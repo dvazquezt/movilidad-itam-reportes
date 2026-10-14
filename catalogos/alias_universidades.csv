@@ -1,0 +1,5 @@
+nombre_en_datos,nombre_canonico,aplicar,motivo,validado_por
+University of Californa-San Diego,University of California San Diego,no,"Error de captura (Californa) y otra grafía en mayúsculas; confirmar que es el mismo campus/convenio",
+UNIVERSITY OF CALIFORNIA SAN DIEGO,University of California San Diego,no,"Misma universidad que la fila anterior",
+UC BERKELEY,"University of California, Berkeley",no,"Abreviatura; confirmar",
+QUEEN MARY UNIVARSITY OF LONDON,Queen Mary University of London,no,"Error de captura (Univarsity)",

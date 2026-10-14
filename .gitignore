@@ -1,0 +1,16 @@
+# Datos personales de alumnos: NUNCA subir al repositorio
+datos/*
+!datos/LEEME.txt
+salidas/*
+!salidas/.gitkeep
+*.xlsx
+*.xls
+*.csv
+!catalogos/*.csv
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+~$*

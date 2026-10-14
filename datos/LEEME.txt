@@ -1,0 +1,4 @@
+Pon aquí el Excel exportado del área (por ejemplo "datos_macro_actual al 6-10-2026.xlsx").
+Debe haber UN solo archivo .xlsx en esta carpeta.
+Esta carpeta está excluida del repositorio (.gitignore) porque contiene datos personales.
+El programa sólo LEE el archivo; nunca lo modifica.
